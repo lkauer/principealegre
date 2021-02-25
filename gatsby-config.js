@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `O Principe Alegre`,
     author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
+    description: `Palavras e notas soltas por ai.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `gatsbyjs`,
