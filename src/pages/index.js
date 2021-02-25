@@ -7,7 +7,7 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Gatsby Starter Personal Website"
+    const siteTitle = "O Principe Alegre"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -15,21 +15,15 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
+        <img style={{ margin: 0 }} src="./principesite.jpeg" alt="Gatsby Scene" />
         <h1>
-          Hey people{" "}
-          <span role="img" aria-label="wave emoji">
-            👋
-          </span>
+          Sobre isso tudo
         </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
-        <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
-        </p>
-        <p>Now go build something great!</p>
+        <p> Resultado do tempo e do silêncio</p>
+        <p>O Príncipe Alegre reúne poemas, recortes de zines e sons, resultantes de transições, visões e sentimentos.</p>
+        <p>Expressão por sí</p>
         <Link to="/blog/">
-          <Button marginTop="35px">Go to Blog</Button>
+          <Button marginTop="35px">Acompanhar materiais</Button>
         </Link>
       </Layout>
     )
