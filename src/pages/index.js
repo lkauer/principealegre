@@ -19,7 +19,6 @@ class IndexPage extends React.Component {
         <h1>
           Sobre isso tudo
         </h1>
-        <p> Resultado do tempo e do silêncio</p>
         <p>O Príncipe Alegre reúne poemas, recortes de zines e sons, resultantes de transições, visões e sentimentos.</p>
         <p>Expressão por sí</p>
         <Link to="/blog/">
