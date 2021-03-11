@@ -13,7 +13,7 @@ O silêncio te obriga experimentar o vazio, te faz olhar pra parede e se ver soz
 
 Tempos de Silêncio resgata as memórias do exílio cotidiano e brinca com a imaginação, com as cordas e batidas. O instrumental aceita e abraça o silêncio, te permite co-criar imagens, sentir com liberdade.
 
-Hoje você pode encontrar as músicas no [youtube](https://www.youtube.com/watch?v=7AyoXJdUXqY&list=PL-t1meJ7Cpk5KUjtFuSuNt7bI0m68rqYR) e no [soundcloud](https://soundcloud.com/oprincipealegre/sets/tempos-de-silencio)
+Hoje você pode encontrar as músicas no [youtube](https://www.youtube.com/watch?v=7AyoXJdUXqY&list=PL-t1meJ7Cpk5KUjtFuSuNt7bI0m68rqYR) e no [soundcloud](https://soundcloud.com/oprincipealegre/)
 ## Projeto contemplado edital  Lei Aldir Blanc Três Coroas
 
 <img src="/../assets/aldirblanc_fundobranco.png" alt="logo aldir blanc"/>
