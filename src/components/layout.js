@@ -70,6 +70,8 @@ class Layout extends React.Component {
 
           {` `}
           <p> {new Date().getFullYear()} - 2021</p>
+          <p> Deseja entrar em contato ? <a href="mailto:lucasgkauer@gmail.com">Clique aqui</a></p> 
+
         </Footer>
       </Wrapper>
     )
