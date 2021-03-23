@@ -2,7 +2,7 @@
 path: tempos-de-silencio
 date: 2021-02-25T01:22:55.506Z
 title: Tempos de silêncio
-description: Albúm
+description: Albúm instrumental.
 ---
 ![Capa](/../assets/capa.jpg "Capa album")
 
