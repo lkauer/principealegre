@@ -8,6 +8,13 @@ description: Single por O principe alegre
 
 #### Arte por [@agloriasofia](https://www.instagram.com/agloriasofia/)
 
+#### Acesse à música : [soundcloud](https://soundcloud.com/oprincipealegre/)
+
+### Sobre a música:
+#### Interpretação: [@ttavaresjulia](https://www.instagram.com/ttavaresjulia/)
+#### Produção: [@o_th](https://www.instagram.com/o_th/))
+#### Letra: 
+
 Espero por cá
 
 Pois eu sei que vem
