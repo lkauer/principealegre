@@ -13,7 +13,7 @@ spotify, youtube e também no [soundcloud](https://soundcloud.com/oprincipealegr
 
 ### Sobre a música:
 #### Interpretação: [@ttavaresjulia](https://www.instagram.com/ttavaresjulia/)
-#### Produção: [@o_th](https://www.instagram.com/o_th/))
+#### Produção: [@o_th](https://www.instagram.com/o_th/)
 #### Letra: 
 
 Espero por cá
