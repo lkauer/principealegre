@@ -6,6 +6,8 @@ description: Single por O principe alegre
 ---
 ![Capa single](../assets/capamusica.jpg "Capa")
 
+#### Arte por [@agloriasofia](https://www.instagram.com/agloriasofia/)
+
 Espero por cá
 
 Pois eu sei que vem
