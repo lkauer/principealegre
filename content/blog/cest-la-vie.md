@@ -8,7 +8,8 @@ description: Single por O principe alegre
 
 #### Arte por [@agloriasofia](https://www.instagram.com/agloriasofia/)
 
-#### Acesse à música : [soundcloud](https://soundcloud.com/oprincipealegre/)
+#### Acesse à música:
+spotify, youtube e também no [soundcloud](https://soundcloud.com/oprincipealegre/)
 
 ### Sobre a música:
 #### Interpretação: [@ttavaresjulia](https://www.instagram.com/ttavaresjulia/)
