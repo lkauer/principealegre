@@ -2,7 +2,7 @@
 path: atras-da-porta-tuas-botas-na-cama-tu
 date: 2021-02-25T01:22:55.506Z
 title: Atras da porta tuas botas na cama tu
-description: Zine
+description: Zine montado na pandemia, que não chegou a ser impresso.
 ---
 ![Capa](/../assets/atras.jpeg "Capa atras")
 
