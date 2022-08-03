@@ -4,6 +4,8 @@ date: 2022-07-25T23:26:28.230Z
 title: We used to play short songs
 description: Projeto intimista com o único propósito de puxar o saco do Lipe
 ---
+Projeto intimista com o único propósito de puxar o saco do Lipe, pois é, gente que a gente preza, tem que saber disso.
+
 We used to play short songs é composto por três músicas:
 
 1 - Poeminha
