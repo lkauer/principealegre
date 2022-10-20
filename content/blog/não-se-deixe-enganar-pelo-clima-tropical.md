@@ -16,4 +16,5 @@ Os livros impressos tem um valor em função do custo da impressão. Mas o livro
 
 S﻿egue o link para download gratuito:
 
-[d﻿ownload](assets/livro_final_gráfica.pdf)
+[d﻿ownload](https://drive.google.com/drive/folders/1dkCgPv_vX_tUIOAroRFvTxCVTUri7hnq?usp=sharing)
+
