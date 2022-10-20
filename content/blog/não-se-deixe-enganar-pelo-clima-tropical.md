@@ -4,8 +4,6 @@ date: 2022-10-20T22:32:07.742Z
 title: Não se deixe enganar pelo clima tropical
 description: Não se deixe enganar pelo clima tropical
 ---
-
-
 ![](../assets/whatsapp-image-2022-10-20-at-19.50.31-1-.jpeg)
 
 O livro "Não se deixe enganar pelo clima tropical" é um compilado de poemas que retratam situações cotidianas e situações nem tanto corriqueiras. Separados e agrupados de forma não tão ortodoxa, abordando cenas vezes estruturadas, vezes abstratas. Como as coisas costumam ser.
@@ -18,4 +16,4 @@ Os livros impressos tem um valor em função do custo da impressão. Mas o livro
 
 S﻿egue o link para download gratuito:
 
-d﻿ownload
+[d﻿ownload](assets/livro_final_gráfica.pdf)
