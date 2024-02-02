@@ -27,9 +27,3 @@ A capa do projeto é um desenho autoral, mas refinado pela Rose.
 As musicas estão disponiveis no youtube, bandcamp e soundcloud. Logo em breve no spotify.
 
 As tracks das músicas estão disponíveis no drive para quem quiser reutilizar. <https://drive.google.com/drive/folders/1pV1QYXAsjGjnntjRch9PpNgBfdSVMnQf?usp=sharing>
-
-
-
-Link para bandcamp:
-
-https://oprincipealegre.bandcamp.com/album/we-used-to-play-short-songs
