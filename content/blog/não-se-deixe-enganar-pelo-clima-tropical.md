@@ -1,7 +1,7 @@
 ---
 path: nao-se-deixe-enganar-pelo-clima-tropical
 date: 2022-10-20T22:32:07.742Z
-title: Não se deixe enganar pelo clima tropical
+title: "Livro : Não se deixe enganar pelo clima tropical"
 description: Não se deixe enganar pelo clima tropical
 ---
 ![](../assets/whatsapp-image-2022-10-20-at-19.50.31-1-.jpeg)
