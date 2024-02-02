@@ -2,9 +2,9 @@
 path: algo-lirico
 date: 2022-06-16T16:47:49.005Z
 title: Algo Lírico
-description: "2022"
+description: Single colaborativo
 ---
-![Capa single](../assets/algo-lirico.PNG "Capa")
+![Capa](content/assets/algo-lirico.png "Capa")
 
 #### Acesse à música:
 
