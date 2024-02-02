@@ -1,6 +1,6 @@
 ---
 path: algo-lirico
-date: 2024-02-02T16:47:49.005Z
+date: 2022-06-16T16:47:49.005Z
 title: Algo Lírico
 description: "2022"
 ---
