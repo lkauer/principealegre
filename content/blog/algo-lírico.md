@@ -7,7 +7,7 @@ description: "2022"
 ![Capa single](../assets/capamusica.jpg "Capa")
 
 #### Acesse à música:
-spotify, youtube(https://www.youtube.com/watch?v=8dG35W6TQLk)
+spotify, youtube(https://www.youtube.com/watch?v=R75M31NU1f4)
 
 ### Sobre a música:
 #### Interpretação: Lucas Kauer e Erik de Oliveira
