@@ -8,7 +8,7 @@ description: Single colaborativo
 
 #### Acesse à música:
 
-spotify, youtube(https://www.youtube.com/watch?v=R75M31NU1f4)
+[youtube](https://www.youtube.com/watch?v=R75M31NU1f4)
 
 ### Sobre a música:
 
