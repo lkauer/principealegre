@@ -4,6 +4,8 @@ date: 2022-12-19T16:51:48.306Z
 title: Três turnos
 description: "2022"
 ---
+![](../assets/tres-turnos.png)
+
 Letra: O principe Alegre
 Tradução: Gidean Diniz Gallon
 Voz: Gidean Diniz Gallon
