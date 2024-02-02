@@ -9,11 +9,10 @@ description: Single por O principe alegre
 #### Arte por [@agloriasofia](https://www.instagram.com/agloriasofia/)
 
 #### Acesse à música:
-spotify, youtube e também no [soundcloud](https://soundcloud.com/oprincipealegre/)
+spotify, youtube(https://www.youtube.com/watch?v=8dG35W6TQLk)
 
 ### Sobre a música:
 #### Interpretação: [@ttavaresjulia](https://www.instagram.com/ttavaresjulia/)
-#### Produção: [@o_th](https://www.instagram.com/o_th/)
 #### Letra: 
 
 Espero por cá
