@@ -9,7 +9,7 @@ description: Single por O principe alegre
 #### Arte por [@agloriasofia](https://www.instagram.com/agloriasofia/)
 
 #### Acesse à música:
-spotify, youtube(https://www.youtube.com/watch?v=8dG35W6TQLk)
+[youtube](https://www.youtube.com/watch?v=8dG35W6TQLk)
 
 ### Sobre a música:
 #### Interpretação: [@ttavaresjulia](https://www.instagram.com/ttavaresjulia/)
