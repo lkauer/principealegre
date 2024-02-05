@@ -7,11 +7,18 @@ description: "2022"
 ![](../assets/tres-turnos.png)
 
 Letra: O principe Alegre
+
 Tradução: Gidean Diniz Gallon
+
 Voz: Gidean Diniz Gallon
+
 Capa: O principe Alegre
 
+
 Mix: Poejo
+
+O﻿uvir [aqui](https://www.youtube.com/watch?v=pESK6QoZLRE)
+
 
 -- Español --
 
