@@ -14,6 +14,14 @@ Colaborações: Julia Tavares, U Juba  Lucas Nunes, Bruno Rodrigues, Cássio Ste
 
 P﻿rodução: O principe alegre
 
-
-
 L﻿ink das faixas do album disponiveis de forma aberta e gratuita. <https://drive.google.com/drive/folders/1Ou_h3L9cohrSThzasVBZmQG_dVraNBla?usp=sharing>
+
+
+
+<!--StartFragment-->
+
+## Projeto contemplado edital Lei Aldir Blanc Três Coroas
+
+![logo aldir blanc](https://oprincipealegre.com.br/assets/aldirblanc_fundobranco.png)
+
+<!--EndFragment-->
