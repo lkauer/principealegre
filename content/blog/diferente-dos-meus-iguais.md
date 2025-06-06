@@ -12,9 +12,11 @@ A temática central do album é relacionada ao período de chuvas no RS, no fina
 
 Os arranjos e composições são autorais, a maioria foram criados com violão de nylon em momentos de introspecção e contemplação. As letras carregam os sentimentos envolvidos e elaborados sobre as inundações. As perdas, os medos, o colapso. Com a colaboração de amigos artistas escolhidos para somar em cada construção, chegamos ao Diferente dos meus iguais.
 
-Colaborações: Julia Tavares, U Juba  Lucas Nunes, Bruno Rodrigues, Cássio Steiner, Caliel, Rose Bock
+Participações: Julia Tavares, U Juba,  Lucas Nunes, Bruno Rodrigues, Cássio Steiner, Caliel Augusto do Nascimento, Rose Bock, Lucas Gabriel Kauer
 
 P﻿rodução: O principe alegre
+
+
 
 L﻿ink das faixas do album disponiveis de forma aberta e gratuita. [Clique aqui ](https://drive.google.com/drive/folders/1Ou_h3L9cohrSThzasVBZmQG_dVraNBla?usp=sharing>)
 
