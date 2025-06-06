@@ -10,6 +10,10 @@ Diferente dos meus iguais, album do projeto O príncipe alegre está disponível
 
 A temática central do album é relacionada ao período de chuvas no RS, no final de 2024 foi elaborado o projeto, conceito e as participações que iriam colaborar. Nesse mesmo ano o projeto foi aceito na Lei Aldir Blanc em três coroas, Rio Grande do Sul.
 
-Colaborações (Julia Tavares, U Juba  Lucas Nunes, Bruno Rodrigues, Cássio Steiner, Caliel, Rose Bock
+Colaborações: Julia Tavares, U Juba  Lucas Nunes, Bruno Rodrigues, Cássio Steiner, Caliel, Rose Bock
 
 P﻿rodução: O principe alegre
+
+
+
+L﻿ink das faixas do album disponiveis de forma aberta e gratuita. <https://drive.google.com/drive/folders/1Ou_h3L9cohrSThzasVBZmQG_dVraNBla?usp=sharing>
