@@ -12,11 +12,9 @@ A música está disponibilizada junto com as demais músicas do álbum no link a
 
 [Link do álbum](https://drive.google.com/drive/folders/1Ou_h3L9cohrSThzasVBZmQG_dVraNBla)
 
-### Aldir blanc
+### Projeto contemplado edital Lei Aldir Blanc Três Coroas
 
-## Projeto contemplado edital Lei Aldir Blanc Três Coroas
-
-![logo aldir blanc](blob:https://oprincipealegre.com.br/ee03e886-be81-4b44-acb0-5cf377a07e55)
+![logo aldir blanc](../assets/aldirblanc_fundobranco.png)
 
 ### Composição
 
